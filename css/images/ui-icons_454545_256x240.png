@@ -1,0 +1,1342 @@
+<!doctype html>
+
+<!--[if lt IE 7]><html lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" class="no-js"><!--<![endif]-->
+	
+	<head>
+		<meta charset="utf-8">
+
+		
+		
+			<meta name="HandheldFriendly" content="True">
+			<meta name="MobileOptimized" content="320">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+					<script src="https://innwithemes.com/cdn-cgi/apps/head/gsu8BXqj8q1wXqkFE48zeCm3_-M.js"></script><link rel="shortcut icon" href="https://innwithemes.com/wp-content/themes/themeinnwit/favicon.png">			
+				
+		<meta name="theme-color" content="#00a9d1">
+		
+		<link rel="pingback" href="https://innwithemes.com/xmlrpc.php">
+
+<script src="https://cdn.jsdelivr.net/ga-lite/latest/ga-lite.min.js" async></script> <script> var galite = galite || {}; galite.UA = 'UA-81412251-1'; // Insert your tracking code here </script>
+		
+		<title>Innwit Themes | Premium WordPress Themes</title>
+
+<!-- All in One SEO Pack 2.10.1 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description"  content="Unique and New Web Designs of 2019 are available. Most user-friendly themes with latest designs are our first priority." />
+
+<link rel="canonical" href="../../img/background.png" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='https://maps.googleapis.com/' />
+<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Innwit Themes &raquo; Feed" href="https://innwithemes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Innwit Themes &raquo; Comments Feed" href="https://innwithemes.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/innwithemes.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.9"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='https://innwithemes.com/?mcsf_action=main_css&#038;ver=4.8.9' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='https://innwithemes.com/wp-content/plugins/mailchimp/css/ie.css?ver=4.8.9' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='contact-form-7-css'  href='https://innwithemes.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='edd-styles-css'  href='https://innwithemes.com/wp-content/plugins/easy-digital-downloads/templates/edd.min.css?ver=2.9.16' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://innwithemes.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='edd-slg-public-style-css'  href='https://innwithemes.com/wp-content/plugins/edd-social-login/includes/css/style-public.css?ver=1.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-typewriter-front-css'  href='https://innwithemes.com/wp-content/plugins/revslider-typewriter-addon/public/assets/css/typewriter.css?ver=1.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='composer-theme-fonts-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A300%2C300italic%2C500%2C700%2C600%7CPoppins%3A700%2C700italic%2C300%2C400%2C500%2C600%2C700%7CPoppins%3A300%2C400%2C400italic%2C700&#038;subset=latin&#038;ver=4.8.9' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='https://innwithemes.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-fonts-css'  href='https://innwithemes.com/wp-content/themes/themeinnwit/library/css/pix-icons.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-bootstrap-css'  href='https://innwithemes.com/wp-content/themes/themeinnwit/library/css/bootstrap.min.css?ver=3.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-stylesheet-css'  href='https://innwithemes.com/wp-content/themes/themeinnwit/library/css/style.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-responsive-stylesheet-css'  href='https://innwithemes.com/wp-content/themes/themeinnwit/library/css/responsive.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-animate-stylesheet-css'  href='https://innwithemes.com/wp-content/themes/themeinnwit/library/css/animate.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-plugins-stylesheet-css'  href='https://innwithemes.com/wp-content/themes/themeinnwit/library/css/plugins.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-color-stylesheet-css'  href='https://innwithemes.com/wp-content/themes/themeinnwit/library/css/color-css/default.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pix-custom-css-css'  href='https://innwithemes.com/wp-content/themes/themeinnwit/library/css/custom_styles.css?ver=1.0' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='pix-ie-only-css'  href='https://innwithemes.com/wp-content/themes/themeinnwit/library/css/ie.css?ver=4.8.9' type='text/css' media='all' />
+<![endif]-->
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://innwithemes.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.1'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.1'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/themes/themeinnwit/library/js/libs/modernizr.custom.min.js?ver=2.5.3'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key&#038;sensor=false&#038;ver=3.0'></script>
+<link rel='https://api.w.org/' href='https://innwithemes.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://innwithemes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://innwithemes.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='../../img/background.png' />
+<link rel="alternate" type="application/json+oembed" href="https://innwithemes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finnwithemes.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://innwithemes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finnwithemes.com%2F&#038;format=xml" />
+<meta name="generator" content="Easy Digital Downloads v2.9.16" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://innwithemes.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://innwithemes.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.8.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<style type="text/css" data-type="vc_custom-css">.only-visible {
+    overflow: visible !important;
+}
+
+.z-index {
+    z-index: 9;
+}
+
+.float-left{
+    margin-top: -120px;
+    float: left;
+}
+
+.banner-style-changes h1{
+    font-size: 42px !important;
+    margin-bottom: 23px;
+}
+
+.banner-style-changes p{
+    font-size: 14px;
+    max-width: 700px;
+    line-height: 24px;
+}
+
+.banner-style-changes .btn.btn-solid {
+    font-size: 15px;
+}
+.widget-right .header-elem {
+    display: none;
+}
+.widget-right .header-elem:first-child {
+    display: block;
+    margin-top: 16px;
+    margin-left: 20px;
+}
+.full-header .header-wrap .container {
+    max-width: 1730px;
+}
+.pix-container, .container, .wpb_row.vc_row-fluid.normal {
+    max-width: 1230px;
+    width: 100%;
+}
+.vc_row > .container > .vc_row {
+    margin-left: 0;
+    margin-right: 0;
+}
+.new-batch {
+    right: 10px;
+    top: 10px;
+    line-height: 1.8;
+    text-transform: lowercase;
+    padding: 3px 7px 2px;
+}
+/* Portfolio */
+.demo-portfolio .filter-portfolio {
+	box-shadow: none;
+}
+.demo-portfolio .theme-wrap {
+    margin-bottom: 50px;
+}
+.demo-portfolio .theme-desc {
+    display: none;
+}
+.demo-portfolio #filters li a {
+	color: #838383;
+	border-radius: 0;
+	margin: 0;
+	/*padding: 16px 44px 14px;*/
+	transition: all ease .3s;
+	position: relative;
+	background: none;
+}
+.demo-portfolio #filters li a:before {
+	content: '';
+	background: rgb(66,71,228);
+	background: -moz-linear-gradient(left, rgba(66,71,228,1) 0%, rgba(25,147,230,1) 100%);
+	background: -webkit-linear-gradient(left, rgba(66,71,228,1) 0%,rgba(25,147,230,1) 100%);
+	background: linear-gradient(to right, rgba(66,71,228,1) 0%,rgba(25,147,230,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4247e4', endColorstr='#1993e6',GradientType=1 );
+	opacity: 0;
+	visibility: hidden;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	transition: all ease .3s;
+}
+.demo-portfolio #filters li a span {
+	z-index: 1;
+	position: relative;
+}
+.demo-portfolio #filters li a.selected, .demo-portfolio #filters li a:hover {
+	color: #fff;
+}
+.demo-portfolio #filters li a.selected:before, .demo-portfolio #filters li a:hover:before {
+	opacity: 1;
+	visibility: visible;
+}
+.demo-portfolio #filters li {
+	text-transform: capitalize;
+	margin-bottom: 0;
+	font-family: 'Nunito';
+	font-size: 14px;
+	letter-spacing: 1.9px;
+}
+.demo-portfolio #filters {
+	border: 1px solid #eeeeee;
+}
+.demo-portfolio .theme-title {
+	color: #696969;
+	font-size: 15px;
+	font-weight: normal;
+	letter-spacing: 1.6px;
+	font-family: 'nunito';
+}
+.demo-portfolio .theme-wrap:hover img {
+	box-shadow: none;
+	margin-bottom: 0;
+}
+.demo-portfolio .theme-wrap:hover .theme-title {
+	color: #000;
+}
+.demo-portfolio .theme-wrap .theme-img {
+	margin-bottom: 25px;
+}
+
+body {
+    font-family: 'Nunito', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #696969;
+    line-height: 40px;
+}
+p:empty {
+   display: none;
+}
+.no-margin {
+    margin: 0 !important;
+}
+.text-center {
+    text-align: center;
+}
+.relative-position {
+    position: relative;
+}
+.blue-text {
+    color: #1895c7;
+    font-size: 14px;
+    letter-spacing: 1.4px;
+}
+.landing-banner .uvc-sub-heading {
+    letter-spacing: 2.1px;
+}
+.zindex {
+    z-index: 1;
+}
+.zindex .uvc-sub-heading {
+    margin-top: 15px;
+    letter-spacing: 1.5px;
+}
+.letter-space {
+    letter-spacing: 2px;
+    max-width: 68%;
+}
+.zindex > .wpb_column > .vc_column-inner {
+    width: calc(100% - 4px);
+}
+.margin-move-left {
+    margin-left: 25px;
+}
+.line-circle:before {
+    position: absolute;
+    content: '';
+    border: 2px solid #238ae8;
+    padding: 5px;
+    background: #fff;
+    border-radius: 50%;
+    z-index: 1;
+}
+.color-font {
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.08);
+}
+.color-font .ambrason {
+    position: absolute;
+    color: #fff;
+    font-size: 160px;
+    right: 0;
+    top: 32%;
+    transform: rotate(-25deg);
+    line-height: 1;
+}
+.color-font .text-right {
+    text-align: right;
+    float: right;
+}
+.pos-absolute img {
+    position: absolute;
+    z-index: 1;
+}
+.letter-spacing22 .uvc-sub-heading {
+    letter-spacing: 2.2px;
+}
+.free-plugins .title {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #238ae8;
+}
+.height121 .image {
+    height: 121px;
+}
+.height121 .icon img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.shortcode .pix_icon_box {
+    padding: 0 15px;
+}
+.shortcode .pix_icon_box .image {
+    margin-bottom: 26px;
+}
+.shortcode .title {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: #238ae8;
+    font-family: 'nunito';
+    margin-bottom: 17px;
+}
+.shortcode .content {
+    font-size: 15px;
+    line-height: 24px;
+    font-family: 'nunito';
+}
+.letter-spacing21.uvc-heading {
+    margin-top: -100px;
+}
+.letter-spacing21 .uvc-sub-heading {
+    letter-spacing: 2.1px;
+    max-width: 66%;
+}
+
+/* Try Before Buy */
+.hand-arrow {
+    position: absolute;
+    top: 15px;
+    left: 0;
+    margin-bottom: 0;
+}
+.vc_row.text-bg-position {
+    background-position: bottom right !important;
+}
+.before-buy-btn .ubtn {
+    padding: 10px 43px;
+    letter-spacing: .6px;
+}
+
+/* Document and Support CSS */
+.width850 > .container {
+    max-width: 880px;
+    width: 100%;
+}
+.width850 .uvc-sub-heading {
+    letter-spacing: 2.1px;
+}
+.doc-support .vc_col-sm-6 {
+    width: 44%;
+    margin-right: 12%;
+}
+.doc-support .vc_col-sm-6:last-child {
+    margin-right: 0;
+}
+.doc-support .pix_icon_box > a {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    display: block;
+}
+.btn.support-btn {
+    font-weight: bold;
+    color: #696969 !important;
+}
+
+/* Works Great */
+.left-sub-heading {
+    color: #696969;
+    font-size: 18px;
+    line-height: 41px;
+    letter-spacing: 2.5px;
+}
+
+/* Gradient Content */
+.gradient-content {
+    color: #1994e6;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+/* Your Stuff */
+.woo-absolute-img{
+    position: absolute;
+    top: 186px;
+    left: 28%;
+}
+.letter-spacing25 .uvc-sub-heading {
+    letter-spacing: 2.5px;
+}
+
+/* All Plugins */
+.all-plugins {
+    text-align: center;
+}
+.all-plugins .pix_icon_box {
+    position: relative;
+}
+.all-plugins .pix_icon_box .image {
+    margin-bottom: 0;
+}
+.all-plugins .icon-box-content .content {
+    position: absolute;
+    right: 10px;
+    top: 0;
+    color: #fff;
+    z-index: 9;
+    font-size: 12px;
+    font-family: 'nunito';
+    font-weight: bold;
+    line-height: 40px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: rgb(74,102,237);
+    background: -moz-linear-gradient(left, rgba(74,102,237,1) 0%, rgba(23,149,230,1) 100%);
+    background: -webkit-linear-gradient(left, rgba(74,102,237,1) 0%,rgba(23,149,230,1) 100%);
+    background: linear-gradient(to right, rgba(74,102,237,1) 0%,rgba(23,149,230,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4a66ed', endColorstr='#1795e6',GradientType=1 );
+}
+.all-plugins .icon img {
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 17px;
+}
+.all-plugins .icon-box-content .title {
+    font-size: 15px;
+    font-family: 'nunito';
+    font-weight: 600;
+    text-transform: none;
+    color: #238ae8;
+}
+
+@media screen and (max-width: 480px) {
+    .all-plugins .icon img {
+        margin-left: 37px;
+    }
+}
+
+/* Vertical Icon List */
+.v-icon-list .pix_icon_box.left {
+    clear: both;
+}
+.v-icon-list .pix_icon_box.left:nth-child(n+2) {
+    margin-top: -50px;
+    float: left;
+    width: 100%;
+}
+.v-icon-list .icon img {
+    max-width: 100%;
+}
+.v-icon-list .pix_icon_box.left .image {
+    margin-right: -23px;
+}
+.v-icon-list .pix_icon_box.left .icon-box-content {
+    padding-top: 49px;
+}
+.v-icon-list .pix_icon_box.left .title {
+    font-family: 'nunito';
+    font-size: 16px;
+    letter-spacing: 2.2px;
+    text-transform: capitalize;
+}
+
+/* Footer */
+.blue-text p {
+    display: inline-block;
+}
+.demo-footer-text {
+    float: left;
+}
+.gradient-icon {
+    font-size: 21px;
+    margin-top: 3px;
+    float: left;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.gradient-icon i {
+    display: none;
+}
+
+@media screen and (max-width: 991px) {
+    body.vc_responsive .logo-with-btn .wpb_column {
+        width: 50%;
+        float: left;
+    }
+    .awesome-website .vc_column-inner {
+        padding-left: 10% !important;
+        padding-right: 10% !important;
+    }
+    .hand-arrow {
+        max-width: 30%;
+        top: 70px;
+    }
+    .pos-absolute img {
+        position: relative;
+    }
+    .tons-of-features .vc_row {
+        margin-left: 0;
+        margin-right: 0;
+        padding: 0 10%;
+    }
+    .cf-text.vc_column_container {
+        padding: 0 10%;
+        text-align: center;
+    }
+    .cf-text .uvc-heading .uvc-sub-heading {
+        font-size: 20vw !important;
+        line-height: 20vw !important;
+        padding-bottom: 40px;
+    }
+    .cf-text .uvc-heading {
+        display: inline-block;
+        text-align: left !important;
+        width: auto;
+    }
+    .cf-text.vc_column_container .color-font {
+        width: auto;
+        display: inline;
+    }
+    .color-font {
+        position: relative;
+    }
+    .color-font .ambrason {
+        font-size: 11vw;
+        right: -3vw;
+        top: 17vw;
+    }
+    .color-font .text-right {
+        text-align: left !important;
+        float: none;
+        margin-left: 20%;
+    }
+    .cf-img .pos-absolute img {
+        position: absolute;
+        top: 0;
+        left: -14vw;
+    }
+    .cf-img .pos-absolute {
+        padding-top: 40vw;
+    }
+    body.vc_responsive .doc-support .vc_col-sm-6 {
+        float: left;
+        width: 48%;
+        margin-right: 4%;
+    }
+    body.vc_responsive .doc-support .vc_col-sm-6:last-child {
+        margin-right: 0;
+    }
+    body.vc_responsive .all-plugins .wpb_column {
+        display: inline-block;
+        width: auto;
+        float: none;
+    }
+    .all-plugins .icon img {
+        margin-left: 36px;
+    }
+    .all-plugins .icon-box-content .content {
+        right: 33px;
+    }
+    body.vc_responsive .all-plugins .wpb_column.d-none {
+        display: none;
+    }
+    .vc_row.worked-so-hard {
+        padding-bottom: 70px !important;
+    }
+    .woo-absolute-img {
+        position: relative;
+        left: 0;
+        top: 80px;
+    }
+    .vc_row.discover-power {
+        padding-top: 130px !important;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .letter-space {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .awesome-website .uvc-main-heading h2 {
+        font-size: 10vw;
+        line-height: 14vw;
+    }
+    .main-heading .uvc-main-heading {
+        font-size: 8vw !important;
+        line-height: 13vw !important;
+    }
+    .main-heading .uvc-main-heading h2 {
+        font-size: inherit !important;
+        line-height: inherit !important;
+    }
+    .main-heading .uvc-sub-heading {
+        font-size: 3.5vw !important;
+        line-height: 6vw !important;
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .vc_row>.container>.vc_row {
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+    .main-heading .uvc-sub-heading {
+        font-size: 4.5vw !important;
+        line-height: 8vw !important;
+    }
+    body.vc_responsive .doc-support .vc_col-sm-6 {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1539535484086{background-color: #f2f2f2 !important;background-position: center;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1539535432764{background-color: #f2f2f2 !important;}.vc_custom_1457185063749{border-top-width: 5px !important;border-bottom-width: 5px !important;border-top-color: #f2f2f2 !important;border-top-style: solid !important;border-bottom-color: #f2f2f2 !important;border-bottom-style: solid !important;}.vc_custom_1472226493117{padding-right: 2% !important;padding-bottom: 0px !important;padding-left: 2% !important;}.vc_custom_1472225595707{padding-top: 0px !important;padding-bottom: 0px !important;background-color: #f5f5f5 !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1472226209674{margin-bottom: 0px !important;padding-top: 0px !important;padding-bottom: 0px !important;background-color: #222222 !important;}.vc_custom_1457349157894{background-color: #f2f2f2 !important;}.vc_custom_1469109447740{background-color: #f5f5f5 !important;}.vc_custom_1457178707241{padding-right: 30px !important;}.vc_custom_1457178737913{padding-left: 30px !important;}.vc_custom_1457185040807{padding-right: 85px !important;}.vc_custom_1457185117071{padding-left: 85px !important;}.vc_custom_1471435033066{padding-bottom: 50px !important;}.vc_custom_1471435041386{padding-bottom: 70px !important;}.vc_custom_1471435064461{padding-bottom: 50px !important;}.vc_custom_1472226593138{padding-top: 5% !important;padding-right: 5% !important;padding-bottom: 5% !important;padding-left: 5% !important;}.vc_custom_1472226534887{margin-bottom: 0px !important;}.vc_custom_1472225680298{padding-top: 7% !important;padding-right: 10% !important;padding-bottom: 7% !important;padding-left: 10% !important;}.vc_custom_1472225667139{padding-top: 50px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1472225237053{margin-bottom: 0px !important;}.vc_custom_1472225535046{padding-right: 100px !important;padding-left: 100px !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1472225549205{padding-top: 5% !important;padding-right: 10% !important;padding-bottom: 5% !important;padding-left: 10% !important;}.vc_custom_1550656515218{margin-bottom: 0px !important;}.vc_custom_1550656284031{padding-bottom: 65px !important;}.vc_custom_1457352615703{padding-bottom: 50px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7716129306268181",
+    enable_page_level_ads: true
+  });
+</script>
+<meta name="google-site-verification" content="YDFEHDQtzLluf26Wu2wCgS6_3aAAwwmqLGWqXVSMhSo" />
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1985830234872995');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1985830234872995&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132738890-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132738890-1');
+</script>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4804637461179788",
+    enable_page_level_ads: true
+  });
+</script>
+
+	</head>
+
+	
+	<body data-rsssl=1 class="home page-template-default page page-id-100 wp-custom-logo wpb-js-composer js-comp-ver-4.12 vc_responsive" itemscope itemtype="http://schema.org/WebPage">
+		
+				<div class="mobile-menu-nav  menu-dark "></div>
+
+		<div id="content-pusher">
+
+		<p id="back-top"><a href="../../img/background.png#top"><span class="pixicon-arrow-angle-up"></span></a></p><div class="transparent-header opacity-0">				<div class="header-wrap   dark  full-header">
+
+					<div class="header-con dark-con pix-sticky-header menu-header-5  menu-dark">
+
+						
+<header class="header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+	<div class="container">
+
+		<div id="inner-header" class="wrap clearfix">
+
+			<div id="logo" itemscope itemtype="http://schema.org/Organization">
+				<a href="../../img/background.png" rel="nofollow">
+
+											<img src="https://innwithemes.com/wp-content/uploads/2018/03/logo_withe.png" data-at2x="https://innwithemes.com/wp-content/themes/themeinnwit/library/images/retina-footer-logo.png" alt="" class="dark-logo">
+						<img src="https://innwithemes.com/wp-content/uploads/2018/03/logo_white_buenos.png" data-at2x="https://innwithemes.com/wp-content/uploads/2018/03/logo_white_buenos.png" alt="" class="light-logo">
+									</a>
+			</div>
+
+			<div class="pix-menu">
+				<div class="pix-menu-trigger">
+					<span class="mobile-menu">menu</span>
+				</div>
+			</div>
+
+						
+			<div class="menu-responsive">
+			</div>
+			<div class="widget-right">
+			
+				<div class="header-elem"></div>
+		<div class="header-elem">
+			<div class="pix-cart">
+				<div class="cart-trigger">
+					<div class="pix-cart-contents-con">
+
+												
+						<a class="pix-cart-contents edd-cart-number-of-items" href="https://innwithemes.com/checkout/"><span class="pixicon-caddie-shopping-streamline pix-cart-icon"></span><span class="pix-item-icon edd-cart-quantity">0</span></a>
+					</div>				
+						
+					<div class="woo-cart-dropdown">
+						
+						<ul class="edd-cart">
+						
+							<li class="cart_item empty"><span class="edd_empty_cart">Your cart is empty.</span></li>
+<li class="cart_item edd-cart-meta edd_total" style="display:none;">Total: <span class="cart-total">&#36;0</span></li>
+<li class="cart_item edd_checkout" style="display:none;"><a href="https://innwithemes.com/checkout/">Checkout</a></li>
+
+												</ul>
+
+					</div>					
+
+				</div>
+			</div>
+		</div>
+
+					</div>
+			<nav class="main-nav" role="navigation">
+				<ul id="menu-main-menu" class="menu clearfix"><li id="menu-item-206" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-206 pix-submenu external"><a href="../../img/background.png" class="external">Home</a><span class="pix-dropdown-arrow"></span></li>
+<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80 pix-submenu external"><a href="https://innwithemes.com/about-us/" class="external">About Us</a><span class="pix-dropdown-arrow"></span></li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78 pix-submenu external"><a href="https://innwithemes.com/all-themes/" class="external">Themes</a><span class="pix-dropdown-arrow"></span></li>
+<li id="menu-item-421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-421 pix-submenu external"><a href="https://innwithemes.com/blog" class="external">Blog</a><span class="pix-dropdown-arrow"></span></li>
+<li id="menu-item-79" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79 pix-submenu external"><a href="https://innwithemes.com/contact-us/" class="external">Contact</a><span class="pix-dropdown-arrow"></span></li>
+</ul>			</nav>
+
+		</div>
+
+	</div>
+
+</header>					</div><!-- #End of Header Con -->
+
+				</div><!-- # End of Header Wrapper -->
+
+				</div>
+
+		<div id="main-wrapper" class="clearfix">
+			<div id="wrapper" data-ajaxtransin="fadeInUp" data-ajaxtransout="fadeOutDown" data-preloadtrans="fadeInUp">
+<div class="container boxed sub-banner-none">
+	
+
+
+		
+		<section id="post-100" class="clearfix sub-header-hide content-header-5 sub-header-trans post-100 page type-page status-publish hentry">
+
+			<section itemprop="articleBody">
+				<div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" data-vc-parallax="1.5" class="vc_row wpb_row vc_row-fluid banner-style-changes dark vc_custom_1539535484086 vc_general vc_parallax vc_parallax-content-moving" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><link href="https://fonts.googleapis.com/css?family=Poppins:600%2C300%2C700" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_11_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-source="gallery" style="background:transparent;padding:0px;">
+<!-- START REVOLUTION SLIDER 5.4.8.1 fullscreen mode -->
+	<div id="rev_slider_11_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.8.1">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-31" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="https://innwithemes.com/wp-content/uploads/2019/01/imageinnwithemes-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="" data-revaddonpaintbrush='{"size":200,"origsize":200,"blurAmount":10,"fadetime":600,"image":"https:\/\/innwithemes.com\/wp-content\/uploads\/2019\/01\/imageinnwithemes.jpg","edgefix":10,"fixedges":true,"style":"round","blur":true,"scaleblur":false,"responsive":false,"disappear":true,"carousel":false}' data-revaddonpaintbrushedges="1">
+		<!-- MAIN IMAGE -->
+		<img src="https://innwithemes.com/wp-content/uploads/2019/01/imageinnwithemes.jpg"  alt="" title="imageinnwithemes"  width="1200" height="800" data-bgposition="center bottom" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="off" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme rs-parallaxlevel-2" 
+			 id="slide-31-layer-11" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['375','295','295','245']" 
+						data-width="360"
+			data-height="3"
+			data-whitespace="nowrap"
+ 
+			data-type="shape" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":300,"speed":2000,"frame":"0","from":"z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;fb:10px;","to":"o:1;rZ:-45;fb:0;","ease":"Back.easeInOut"},{"delay":"wait","speed":600,"frame":"999","to":"rZ:0deg;opacity:0;fb:10px;","ease":"Back.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5;background-color:rgb(255,255,255);">
+<div class="rs-looped rs-slideloop"  data-easing="Linear.easeNone" data-speed="5" data-xs="0" data-xe="0" data-ys="-10" data-ye="10"> </div></div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme rs-parallaxlevel-1" 
+			 id="slide-31-layer-2" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['375','295','295','245']" 
+						data-width="360"
+			data-height="3"
+			data-whitespace="nowrap"
+ 
+			data-type="shape" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":700,"speed":2000,"frame":"0","from":"z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;fb:10px;","to":"o:1;rZ:45;fb:0;","ease":"Back.easeInOut"},{"delay":"wait","speed":600,"frame":"999","to":"rZ:-45deg;opacity:0;fb:10px;","ease":"Back.easeInOut"}]'
+			data-textAlign="['inherit','inherit','inherit','inherit']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6;background-color:rgb(255,255,255);">
+<div class="rs-looped rs-slideloop"  data-easing="Linear.easeNone" data-speed="5" data-xs="0" data-xe="0" data-ys="10" data-ye="-10"> </div></div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme rs-parallaxlevel-12" 
+			 id="slide-31-layer-1" 
+			 data-x="['center','center','center','center']" data-hoffset="['1','0','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['310','230','240','208']" 
+						data-fontsize="['50','50','40','25']"
+			data-lineheight="['60','60','50','35']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":500,"speed":1000,"frame":"0","from":"x:-150px;z:0;rX:0deg;rY:-45deg;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;fb:10px;","to":"o:1;fb:0;","ease":"Back.easeInOut"},{"delay":"wait","speed":600,"frame":"999","to":"x:150px;rY:45deg;opacity:0;fb:10px;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[5,5,5,2]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[10,10,10,10]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 50px; line-height: 60px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Poppins;background-color:rgb(0,0,0);">
+<div class="rs-looped rs-slideloop"  data-easing="Linear.easeNone" data-speed="10" data-xs="-20" data-xe="20" data-ys="0" data-ye="0">DISCOVER OUR NEW THEME <div class='frontcornertop'></div><div class='backcornertop'></div> </div></div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-resizeme rs-parallaxlevel-10" 
+			 id="slide-31-layer-9" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['378','298','298','248']" 
+						data-fontsize="['50','50','40','25']"
+			data-lineheight="['60','60','50','35']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":900,"speed":1000,"frame":"0","from":"x:150px;z:0;rX:0deg;rY:45deg;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;fb:10px;","to":"o:1;fb:0;","ease":"Back.easeInOut"},{"delay":"wait","speed":600,"frame":"999","to":"x:-150px;rY:-45deg;opacity:0;fb:10px;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[5,5,5,2]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[10,10,10,10]"
+
+			style="z-index: 8; white-space: nowrap; font-size: 50px; line-height: 60px; font-weight: 600; color: #ffffff; letter-spacing: 0px;font-family:Poppins;background-color:rgb(0,0,0);">
+<div class="rs-looped rs-slideloop"  data-easing="Linear.easeNone" data-speed="10" data-xs="20" data-xe="-20" data-ys="0" data-ye="0">WP CONFIGURATOR <div class='frontcorner'></div><div class='backcorner'></div> </div></div>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption   tp-resizeme rs-parallaxlevel-12" 
+			 id="slide-31-layer-3" 
+			 data-x="['center','center','center','center']" data-hoffset="['2','0','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['558','520','520','430']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1500,"speed":1000,"frame":"0","from":"y:100px;z:0;rX:-45deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;fb:10px;","to":"o:1;fb:0;","ease":"Back.easeInOut"},{"delay":"wait","speed":600,"frame":"999","to":"y:50px;rX:45deg;opacity:0;fb:10px;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 9; white-space: nowrap; font-size: 17px; line-height: 25px; font-weight: 300; color: #ffffff; letter-spacing: 0px;font-family:Poppins;"><span style="font-weight:600;">The Best Theme to create & Configure Products</span><br/>Offer visitors a truly different shopping experience and <br/>convert them to customers. <br/>Configurator Theme is the perfect opportunity to make your web store stand out! <br/>Simply activate and demonstrate the era of hyperpersonalization!<br/> </div>
+
+		<!-- LAYER NR. 6 -->
+		<a class="tp-caption   tp-resizeme rs-parallaxlevel-13" 
+ href="https://wpconfigurator.com" target="_blank"			 id="slide-31-layer-4" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['top','top','top','top']" data-voffset="['730','650','650','570']" 
+						data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-actions=''
+			data-responsive_offset="on" 
+
+			data-frames='[{"delay":1700,"speed":1000,"frame":"0","from":"y:100px;z:0;rX:-45deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;fb:10px;","to":"o:1;fb:0;","ease":"Back.easeInOut"},{"delay":"wait","speed":600,"frame":"999","to":"y:50px;rX:45deg;opacity:0;fb:10px;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"200","ease":"Power1.easeInOut","to":"o:1;sX:1.1;sY:1.1;rX:0;rY:0;rZ:0;z:0;fb:0;","style":"c:rgb(255,255,255);"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[2,2,2,2]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[7,7,7,7]"
+
+			style="z-index: 10; white-space: nowrap; font-size: 20px; line-height: 28px; font-weight: 700; color: #ffffff; letter-spacing: 5px;font-family:Poppins;border-color:rgb(255,255,255);border-style:solid;border-width:3px 3px 3px 3px;cursor:pointer;text-decoration: none;">GET IT NOW </a>
+	</li>
+</ul>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+if (setREVStartSize!==undefined) setREVStartSize(
+	{c: '#rev_slider_11_1', responsiveLevels: [1240,1024,778,480], gridwidth: [1240,1024,778,480], gridheight: [868,768,960,720], sliderLayout: 'fullscreen', fullScreenAutoWidth:'off', fullScreenAlignForce:'off', fullScreenOffsetContainer:'', fullScreenOffset:''});
+			
+var revapi11,
+	tpj;	
+(function() {			
+	if (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener("DOMContentLoaded",onLoad); else onLoad();	
+	function onLoad() {				
+		if (tpj===undefined) { tpj = jQuery; if("off" == "on") tpj.noConflict();}
+	if(tpj("#rev_slider_11_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_11_1");
+	}else{
+		revapi11 = tpj("#rev_slider_11_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//innwithemes.com/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"fullscreen",
+			dottedOverlay:"none",
+			delay:9000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"off",
+				arrows: {
+					style:"uranus",
+					enable:true,
+					hide_onmobile:false,
+					hide_onleave:false,
+					tmp:'',
+					left: {
+						h_align:"left",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					},
+					right: {
+						h_align:"right",
+						v_align:"center",
+						h_offset:20,
+						v_offset:0
+					}
+				}
+			},
+			responsiveLevels:[1240,1024,778,480],
+			visibilityLevels:[1240,1024,778,480],
+			gridwidth:[1240,1024,778,480],
+			gridheight:[868,768,960,720],
+			lazyType:"none",
+			parallax: {
+				type:"3D",
+				origo:"slidercenter",
+				speed:400,
+				speedbg:0,
+				speedls:0,
+				levels:[5,10,15,20,25,30,35,40,-2,-4,-6,-8,-10,-12,-14,55],
+				ddd_shadow:"off",
+				ddd_bgfreeze:"on",
+				ddd_overflow:"hidden",
+				ddd_layer_overflow:"hidden",
+				ddd_z_correction:150,
+				disable_onmobile:"on"
+			},
+			spinner:"off",
+			stopLoop:"on",
+			stopAfterLoops:0,
+			stopAtSlide:1,
+			shuffle:"off",
+			autoHeight:"off",
+			fullScreenAutoWidth:"off",
+			fullScreenAlignForce:"off",
+			fullScreenOffsetContainer: "",
+			fullScreenOffset: "",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}; /* END OF revapi call */
+	
+    RevSliderPaintBrush(tpj, revapi11);
+
+ }; /* END OF ON LOAD FUNCTION */
+}()); /* END OF WRAPPING FUNCTION */
+</script>
+		<script>
+					var htmlDivCss = unescape("%23rev_slider_11_1%20.uranus.tparrows%20%7B%0A%20%20width%3A50px%3B%0A%20%20height%3A50px%3B%0A%20%20background%3Argba%28255%2C255%2C255%2C0%29%3B%0A%20%7D%0A%20%23rev_slider_11_1%20.uranus.tparrows%3Abefore%20%7B%0A%20width%3A50px%3B%0A%20height%3A50px%3B%0A%20line-height%3A50px%3B%0A%20font-size%3A40px%3B%0A%20transition%3Aall%200.3s%3B%0A-webkit-transition%3Aall%200.3s%3B%0A%20%7D%0A%20%0A%20%20%23rev_slider_11_1%20.uranus.tparrows%3Ahover%3Abefore%20%7B%0A%20%20%20%20opacity%3A0.75%3B%0A%20%20%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER --></div></div></div><div class="vc_row-full-width"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid only-visible dark vc_custom_1539535432764" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid float-left"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class=" size-sm alignCenter clearfix"><h1 class="main-title title uppercase normal-title size-sm alignCenter line-style1"   style="margin: 0 0 10px 0; color: #222222; ">Looking for Best Multipurpose Responsive WordPress Theme?  <span class="line"></span></h1></div></div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1457178707241"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><strong>We have got you covered! </strong>You definitely know what a Multipurpose WordPress Theme is. So, lets talk about what we do and what we develop. We are strongly dependent on back-end when we chose a multipurpose theme. We have created <a href="https://themeforest.net/item/composer-responsive-multipurpose-highperformance-wordpress-theme/13454476">Composer</a> which is proving to be one of the best Responsive Multipurpose WordPress theme. When you choose a theme you must know if it is really a Most <strong>User-Friendly </strong>theme.<b> </b></p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1457178737913"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>We currently produce themes for the world’s best online marketplace &#8211; Themeforest and are proud to have proven background with clients from around the globe. Using the latest responsive development techniques we ensure that every website is optimized across all platforms: mobile, tablet and desktop. Which means your graphics and content will look great and works just as well on any device. With Innwit your vision can be reached. You can find our inventions right <a href="https://innwithemes.com/all-themes/">here</a>.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div><div class="vc_row-full-width"></div><div class="vc_row wpb_row vc_row-fluid dark" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class=" size-sm alignCenter clearfix"><h4 class="main-title title sub-title-con normal-title size-sm alignCenter line-style1"   style="color: #222222; ">Themes We Built</h4><p class="sub-title " style="color: #666666; ">Don’t just take our word for it! Explore some of our favourite and recently completed themes. </p></div><div class="vc_empty_space"  style="height: 70px" ><span class="vc_empty_space_inner"></span></div>
+<div class="vc_wp_custommenu wpb_content_element"></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="theme-wrap">
+						<div class="theme-img"><img src='https://innwithemes.com/wp-content/uploads/2016/07/themeconfigurator-380x300.png' alt=''><div class="theme-btn"><div class="theme-btn-wrap"><div class="theme-btn-inner">
+								<a href="https://wpconfigurator.com/" title="More Info"  target=" _blank" class="btn btn-rectangle btn-outline white">More Info</a>
+								<a href="https://wpconfigurator.com/" title="Buy now!"  target=" _blank" class="btn btn-rectangle btn-solid white">Buy now!</a>
+							</div></div></div>
+						</div>
+			<h3 class="theme-title"><a href="https://wpconfigurator.com/">WP Configurator</a></h3>
+			<p class="theme-desc">Woocommerce Thme</p>
+		</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="theme-wrap">
+						<div class="theme-img"><img src='https://innwithemes.com/wp-content/uploads/2016/07/composer-theme-380x300.jpg' alt=''><div class="theme-btn"><div class="theme-btn-wrap"><div class="theme-btn-inner">
+								<a href="https://themeforest.net/item/composer-responsive-multipurpose-highperformance-wordpress-theme/13454476?ref=Innwithemes" title="More Info"  target=" _blank" class="btn btn-rectangle btn-outline white">More Info</a>
+								<a href="https://themeforest.net/item/composer-responsive-multipurpose-highperformance-wordpress-theme/13454476?ref=Innwithemes" title="Buy Now"  target=" _blank" class="btn btn-rectangle btn-solid white">Buy Now</a>
+							</div></div></div>
+						</div>
+			<h3 class="theme-title"><a href="https://themeforest.net/item/composer-responsive-multipurpose-highperformance-wordpress-theme/13454476?ref=Innwithemes">Composer</a></h3>
+			<p class="theme-desc">Responsive Multiconcept Theme</p>
+		</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="theme-wrap">
+						<div class="theme-img"><img src='https://innwithemes.com/wp-content/uploads/2016/07/screenshot-380x300-380x300.png' alt=''><div class="theme-btn"><div class="theme-btn-wrap"><div class="theme-btn-inner">
+								<a href="https://innwithemes.com/themes/the-ocean-multipurpose-wordpress-theme/" title="More Info"  class="btn btn-rectangle btn-outline white">More Info</a>
+								<a href="http://themeforest.net/item/the-ocean-multipurpose-wordpress-theme/12896598?ref=Innwithemes" title="Buy Now"  target=" _blank" class="btn btn-rectangle btn-solid white">Buy Now</a>
+							</div></div></div>
+						</div>
+			<h3 class="theme-title"><a href="https://innwithemes.com/themes/the-ocean-multipurpose-wordpress-theme/">The Ocean</a></h3>
+			<p class="theme-desc">Multipurpose Corporate Theme</p>
+		</div></div></div></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid dark vc_custom_1457185063749" ><div class="wpb_column vc_column_container vc_col-sm-6 vc_custom_1457185040807"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1471435033066">
+		<div class="wpb_wrapper">
+			<p><strong>We Can Work On Custom Project.</strong></p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1471435041386">
+		<div class="wpb_wrapper">
+			<p>With years of experience our web developers can deliver you the results you need. We can define a creative solution as unique as your problem. Working with you down to the smallest detail, we ensure that the design we create meets not only your exact goal but your user’s goal too. Get in touch with us, leaving us a brief outline of your project and a one of our experts will be in touch.</p>
+
+		</div>
+	</div>
+<div class="pix_button  "><a href="../../img/background.png#" title=""  class="clear btn btn-solid btn-rectangle  btn-lg no-color btn-custom"style="font-size:18px;padding:16px 65px 16px 65px;">Hire Us</a></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_custom_1457185117071"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1471435064461">
+		<div class="wpb_wrapper">
+			<p><strong style="color: #333333;">Great reasons to trust in Innwit:</strong></p>
+
+		</div>
+	</div>
+<div class="pix_icon_box  left "style="margin:0 0 60px 0;"  ><div class="icon100 bg-none default"><span class="icon pixicon-tablet-1"></span></div><div class="icon-box-content  "><p class="content">Our themes are optimized across platforms; mobile, tablet and desktop. So your users get the most out of your site no matter how they reach it.</p></div></div><div class="pix_icon_box  left "style="margin:0 0 60px 0;"  ><div class="icon100 bg-none default"><span class="icon pixicon-basic-anticlockwise"></span></div><div class="icon-box-content  "><p class="content">Our talented team of web developers work quickly and efficiently to get your design fast.</p></div></div><div class="pix_icon_box  icon_hover left "  ><div class="icon100 bg-none default"><span class="icon pixicon-basic-headset"></span></div><div class="icon-box-content  "><p class="content">Just like our themes, We are responsive. Get in touch with our Customer Service Support team which is available 24/7.</p></div></div></div></div><div class="split-bg"></div></div><div class="vc_row-full-width"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid dark vc_custom_1472226493117" ><div class="wpb_column vc_column_container vc_col-sm-6"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_right  vc_custom_1472226534887">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="893" height="629" src="https://innwithemes.com/wp-content/uploads/2016/07/mac-pro-img.png" class="vc_single_image-img attachment-full" alt="" srcset="https://innwithemes.com/wp-content/uploads/2016/07/mac-pro-img.png 893w, https://innwithemes.com/wp-content/uploads/2016/07/mac-pro-img-300x211.png 300w, https://innwithemes.com/wp-content/uploads/2016/07/mac-pro-img-768x541.png 768w" sizes="(max-width: 893px) 100vw, 893px" /></div>
+		</figure>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_custom_1472226593138"><div class="wpb_wrapper"><div class=" size-sm clearfix"><h3 class="main-title title uppercase normal-title size-sm line-style1"   style="color: #0065cc; font-size: 16px; ">Our Themes are</h3></div><div class=" size-sm clearfix"><h3 class="main-title title normal-title size-sm line-style1"   style="font-size: 42px; ">Powerful &amp; User Friendly</h3></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Let Composer take your website where your imagination wants it to go. With intuitive demos, free premium plugins and customization as standard, Composer is the one stop shop for an awesome engineered design.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_row-full-width"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid dark vc_custom_1472225595707 vc_row-no-padding" ><div class="wpb_column vc_column_container vc_col-sm-6 vc_custom_1472225680298"><div class="wpb_wrapper"><div class=" size-sm alignCenter clearfix"><h3 class="main-title title uppercase normal-title size-sm alignCenter line-style1"   style="color: #0065cc; font-size: 16px; ">EXTREMELY</h3></div><div class=" size-sm alignCenter clearfix"><h3 class="main-title title uppercase normal-title size-sm alignCenter line-style1"   style="color: #333333; font-size: 24px; ">EASY TO CUSTOMIZE</h3></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">Using one of our themes you can make your site your own with tons of great customization. Whether you are a bit of tech nerd or a complete novice our themes are tailored and crafted with usability at the forefront. Backend experiences are easy to use regardless of your skill level. Which means all our customization are easy to use.</p>
+
+		</div>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_custom_1472225667139"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1472225237053">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1083" height="563" src="https://innwithemes.com/wp-content/uploads/2016/07/header-styles-img.png" class="vc_single_image-img attachment-full" alt="" srcset="https://innwithemes.com/wp-content/uploads/2016/07/header-styles-img.png 1083w, https://innwithemes.com/wp-content/uploads/2016/07/header-styles-img-300x156.png 300w, https://innwithemes.com/wp-content/uploads/2016/07/header-styles-img-768x399.png 768w, https://innwithemes.com/wp-content/uploads/2016/07/header-styles-img-1024x532.png 1024w" sizes="(max-width: 1083px) 100vw, 1083px" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="vc_row-full-width"></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid dark vc_custom_1472226209674 vc_row-no-padding" ><div class="wpb_column vc_column_container vc_col-sm-6 vc_custom_1472225535046"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1550656515218">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper vc_box_border  vc_box_border_grey"><img width="884" height="569" src="https://innwithemes.com/wp-content/uploads/2016/07/header-option-img.png" class="vc_single_image-img attachment-full" alt="" srcset="https://innwithemes.com/wp-content/uploads/2016/07/header-option-img.png 884w, https://innwithemes.com/wp-content/uploads/2016/07/header-option-img-300x193.png 300w, https://innwithemes.com/wp-content/uploads/2016/07/header-option-img-768x494.png 768w" sizes="(max-width: 884px) 100vw, 884px" /></div>
+		</figure>
+	</div>
+</div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_custom_1472225549205"><div class="wpb_wrapper"><div class=" size-sm alignCenter clearfix"><h3 class="main-title title uppercase normal-title size-sm alignCenter line-style1"   style="color: #0065cc; font-size: 16px; ">POWERFUL</h3></div><div class=" size-sm alignCenter clearfix"><h3 class="main-title title uppercase normal-title size-sm alignCenter line-style1"   style="color: #ffffff; font-size: 24px; ">THEME OPTIONS</h3></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><span style="color: #ffffff;">Retina ready, responsive and translation ready are just a few of our standard features to ensure your site is accessible everywhere. Plus, layout, type font, slider, portfolio options and more come in their dozens which of course you can customize. But that’s not it! We partner with premium plugins like Visual Composer, Revolution Slider, Isotop, WooCommerce and more to offer you a one stop website solution.</span></p>
+
+		</div>
+	</div>
+</div></div></div><div class="vc_row-full-width"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid dark vc_custom_1457349157894" ><div class="wpb_column vc_column_container vc_col-sm-1"><div class="wpb_wrapper"></div></div><div class="wpb_column vc_column_container vc_col-sm-10"><div class="wpb_wrapper"><div class="pix_icon_box  center "style="margin:0 0 60px 0;"  ><div class="icon100 circle color"><span class="hover-gradient"></span><span class="icon pixicon-music-headphones"></span></div><div class="icon-box-content  "><h2 class="title uppercase" style="font-size:34px">24/7 customer service support</h2><p class="content"></p></div></div>
+	<div class="wpb_text_column wpb_content_element  vc_custom_1550656284031">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;">At Innwit, our 24/7 Customer Service Support team is available to help. Whether you need a little guidance getting around your theme, or you need to resolve some technical issues, or even you want to upgrade. Whatever you need, our friendly support team is on hand.</p>
+
+		</div>
+	</div>
+<div class="pix_button button-center "><a href="https://support.innwit.com/" title=""  class="clear btn btn-solid btn-rectangle  btn-lg color">Get Help Now</a></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1"><div class="wpb_wrapper"></div></div></div><div class="vc_row-full-width"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid dark" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1457352615703">
+		<div class="wpb_wrapper">
+			<p style="text-align: center;"><strong>Follow us on:</strong></p>
+
+		</div>
+	</div>
+<div class="social-full full-width-icon style1 center"><div class="social-icons"><a href="https://www.facebook.com/innwit/" target="_blank" title="Facebook" class="facebook"><i class="pixicon-facebook"></i><span>Facebook</span></a><a href="https://twitter.com/innwit" target="_blank" title="Twitter" class="twitter"><i class="pixicon-twitter"></i><span>Twitter</span></a><a href="https://www.linkedin.com/company/5198495/" target="_blank" title="Linkedin" class="linkedin"><i class="pixicon-linked-in"></i><span>LinkedIn</span></a><a href="https://www.behance.net/innwit" target="_blank" title="behance" class="behance"><i class="pixicon-behance"></i><span>Behance</span></a></div></div></div></div></div><div class="vc_row-full-width"></div><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid dark vc_custom_1469109447740" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class=" size-sm alignCenter clearfix"><h4 class="main-title title normal-title size-sm alignCenter line-style1"   style="margin: 0 0 60px 0; color: #222222; ">Newsletter</h4></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: right;">Subscribe to our email list and stay up-to-date with all our awesome releases and latest updates.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-7"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v3.1.11 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-14" method="post" data-id="14" data-name="Newsletter" ><div class="mc4wp-form-fields"><div class="newsletter">
+  <input type="email" name="EMAIL" placeholder="Your email address" required />
+  <button type="submit" class="btn btn-solid btn-lg color">Subscribe</button>
+</div><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></div><input type="hidden" name="_mc4wp_timestamp" value="1564302648" /><input type="hidden" name="_mc4wp_form_id" value="14" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div><div class="vc_row-full-width"></div>
+			</section>
+
+		</section>
+
+			
+</div>
+
+
+		</div> <!-- End of Wrapper -->
+	</div> <!-- End of Main Wrap -->
+
+
+		<!-- Footer -->
+	
+		<footer class="footer-dark" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+					<!-- Copyright -->
+			<div class="footer-bottom">
+				<div class="container">
+					<div class="copyright row">
+
+						
+								<div class="col-md-12">
+
+								<ul id="menu-main-menu-1" class="copyright-nav clearfix"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-206"><a href="../../img/background.png">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="https://innwithemes.com/about-us/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="https://innwithemes.com/all-themes/">Themes</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-421"><a href="https://innwithemes.com/blog">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-79"><a href="https://innwithemes.com/contact-us/">Contact</a></li>
+</ul>
+								<div class="copyright-wrap"><p>© 2016 <a href="../../img/background.png">Innwit Themes</a>, All Rights Reserved.</p></div>
+
+								</div>
+
+												</div>
+				</div>
+			</div>
+			
+					</footer>
+	
+		
+		</div>
+
+		
+		
+		
+					
+						
+		<!-- all js scripts are loaded in library/composer.php -->
+		
+		<div id="fb-root"></div>			<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<link rel='stylesheet' id='rs-paintbrush-front-css'  href='https://innwithemes.com/wp-content/plugins/revslider-paintbrush-addon/public/assets/css/revolution.addon.paintbrush.css?ver=1.0.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/innwithemes.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"https:\/\/innwithemes.com\/wp-admin\/admin-ajax.php","position_in_cart":"","has_purchase_links":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","is_checkout":"0","default_gateway":"","redirect_to_checkout":"0","checkout_page":"https:\/\/innwithemes.com\/checkout\/","permalinks":"1","quantities_enabled":"","taxes_enabled":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.9.16'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/revslider-typewriter-addon/public/assets/js/revolution.addon.typewriter.min.js?ver=1.0.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pixLike = {"ajaxurl":"https:\/\/innwithemes.com\/wp-admin\/admin-ajax.php","liked":"You already liked this!"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/themes/themeinnwit/framework/required-functions/pix-like-me/js/like-me.js?ver=2.0'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/themes/themeinnwit/library/js/waypoints.min.js?ver=2.0.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var composerAjaxForm = {"nameError":"Please enter your name!","nameLenError":"Your name needs to be at least {0} characters","emailError":"Please enter a valid email address.","emailLenError":"Your email address must be in the format of name@domain.com","subjectError":"You need to enter a subject!","subjectLenError":"Subject needs to be at least {0} characters","messageError":"You need to enter a message!","messageLenError":"Message needs to be at least {0} characters"};
+var pix_composer = {"rootUrl":"https:\/\/innwithemes.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/themes/themeinnwit/library/js/plugins.js?ver=1.0'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/themes/themeinnwit/library/js/scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-includes/js/wp-embed.min.js?ver=4.8.9'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.12'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js?ver=4.12'></script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/revslider-paintbrush-addon/public/assets/js/revolution.addon.paintbrush.min.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=3.1.11'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://innwithemes.com/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=3.1.11'></script>
+<![endif]-->
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}})();</script><!-- Google Code for Composer Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+chosen link or button. -->
+<!-- Google Code for Composer - Purchase Button Conversion Page
+In your html page, add the snippet and call
+goog_report_conversion when someone clicks on the
+chosen link or button. -->
+<script type="text/javascript">
+  /* <![CDATA[ */
+  goog_snippet_vars = function() {
+    var w = window;
+    w.google_conversion_id = 937066324;
+    w.google_conversion_label = "fjeACLWzz2oQ1P7pvgM";
+    w.google_remarketing_only = false;
+  }
+  // DO NOT CHANGE THE CODE BELOW.
+  goog_report_conversion = function(url) {
+    goog_snippet_vars();
+    window.google_conversion_format = "3";
+    var opt = new Object();
+    opt.onload_callback = function() {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  }
+  var conv_handler = window['google_trackConversion'];
+  if (typeof(conv_handler) == 'function') {
+    conv_handler(opt);
+  }
+}
+/* ]]> */
+</script>
+<script type="text/javascript"
+  src="https://www.googleadservices.com/pagead/conversion_async.js">
+</script>
+
+
+	</body>
+
+</html> <!-- end page. what a ride! -->
